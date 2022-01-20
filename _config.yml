@@ -15,15 +15,15 @@ remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Link Chen's Personal Website"
+locale                   : "zh-CN"
+title                    : "心愿之旅的个人网站"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Link Chen"
-description              : "Link Chen's personal website!"
-url                      : "https://herolink.github.io"
+name                     : "心愿之旅"
+description              : "心愿之旅的个人网站"
+url                      : "https://chendaoxi6.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "HeroLink/herolink.github.io"
+repository               : "chendaoxi6/chendaoxi6.github.io"
 date_format              : "%Y-%m-%d"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -103,34 +103,28 @@ analytics:
 
 # Site Author
 author:
-  name             : "Link Chen"
+  name             : "心愿之旅"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Be healthy. Be happy. Be diligent. Be creative. Be yourself!"
+  bio              : "快乐工作，健康生活！"
   location         : "China"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:linkch@qq.com"
+      url: "mailto:451983825@qq.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/HeroLink"
-    - label: "Weibo"
-      icon: "fab fa-fw fa-weibo"
-      url: "https://weibo.com/u/5971930396"
+      url: "https://github.com/chendaoxi6"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:linkch@qq.com"
+      url: "mailto:451983825@qq.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/HeroLink"
-    - label: "Weibo"
-      icon: "fab fa-fw fa-weibo"
-      url: "https://weibo.com/u/5971930396"
+      url: "https://github.com/chendaoxi6"
 
 
 # Reading Files
